@@ -1,0 +1,6 @@
+.secret
+.env
+.DS_Store
+NOTEPAD.md
+node_modules
+test-imgs
